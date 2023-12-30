@@ -36,5 +36,48 @@ markup:
         guessSyntax: true
 ```
 
-See [Hugo documentation](https://gohugo.io/getting-started/configuration-markup#highlight) for more options.
-*Note: for some reason, the `guessSyntax` doesn't actually work but is required. Please make your code fences explicit for the time being.*
+---
+
+## FAQs / How To's Guide 🙋
+
+Read Wiki For More Details => **[PaperMod-FAQs](https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs)**
+
+---
+
+## Social-Icons/Share-Icons 🖼️
+
+Read Wiki For More Details => **[PaperMod-Icons](https://github.com/adityatelange/hugo-PaperMod/wiki/Icons)**
+
+---
+
+## Release Changelog 📃
+
+Release ChangeLog has info about stuff added: **[Releases](https://github.com/adityatelange/hugo-PaperMod/releases)**
+
+---
+
+## [Pagespeed Insights (100% ?)](https://pagespeed.web.dev/report?url=https://adityatelange.github.io/hugo-PaperMod/) 👀
+
+---
+
+## Support 🫶
+
+-   Star 🌟 this repository.
+-   Help spread the word about PaperMod by sharing it on social media and recommending it to your friends. 🗣️
+-   You can also sponsor 🏅 on [Github Sponsors](https://github.com/sponsors/adityatelange) / [Ko-Fi](https://ko-fi.com/adityatelange).
+
+---
+
+## Special Thanks 🌟
+
+-   [**Highlight.js**](https://github.com/highlightjs/highlight.js)
+-   [**Fuse.js**](https://github.com/krisk/fuse)
+-   [**Feather Icons**](https://github.com/feathericons/feather)
+-   [**Simple Icons**](https://github.com/simple-icons/simple-icons)
+-   **All Contributors and Supporters**
+
+---
+
+## Stargazers over time 📈
+
+[![Stargazers over time](https://starchart.cc/adityatelange/hugo-PaperMod.svg?background=%23ffffff00&axis=%23858585&line=%236b63ff)](https://starchart.cc/adityatelange/hugo-PaperMod)
